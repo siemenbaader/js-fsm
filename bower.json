@@ -1,0 +1,28 @@
+{
+  "name": "js-fsm",
+  "main": "js-fsm.js",
+  "version": "0.0.0",
+  "authors": [
+    "Siemen Baader <siemenbaader@gmail.com>"
+  ],
+  "description": "Interaction Programming with Finite State Machines",
+  "keywords": [
+    "interaction programming",
+    "fsm",
+    "finite state machine"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "chai": "~1.10.0",
+    "mocha": "~2.1.0",
+    "sinon": "~1.12.2",
+    "classy-mbl": "https://github.com/mblinsitu/Classy.git"
+  }
+}
