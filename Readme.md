@@ -5,17 +5,12 @@ A small library to provide nice syntax for state machines.
 The main use case is interaction programming.
 
 ## Usage
-js-fsm is on Bower. You can get js-fsm by typing `$ bower install`. 
+js-fsm is on Bower. You can get js-fsm by typing:
 
 ```
 $ bower install js-fsm
 ```
 
-fo
-
-
-Use `bower install` to install the needed dependencies.
-`
 In your `index.html` file, do:
 
 ```html
@@ -46,4 +41,4 @@ The syntax. js-fsm uses method chaining instead of JavaScript object notation. T
 
 ## Development
 
-Clone it from github. Do `bower install` to fetch the dependencies.
+Clone it from https://github.com/siemenbaader/js-fsm.git. Do `bower install` to fetch the dependencies.
